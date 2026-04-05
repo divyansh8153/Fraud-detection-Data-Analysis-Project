@@ -53,4 +53,4 @@ Created interactive dashboard showing:
 Divyansh Kumar  
 Aspiring Data Analyst
 ## Dashboard Preview
-![Fraud Dashboard](Screenshots/Homepage.png)
+![Fraud Dashboard](Screenshots/Home page.png)
